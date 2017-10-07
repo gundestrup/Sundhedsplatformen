@@ -1,0 +1,6 @@
+Inhalationstjek
+Der er dags dato udført kontrol af patientens inhalationsteknik.  
+
+@VURSKEMAER(3040008957)@
+
+***
