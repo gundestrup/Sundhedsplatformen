@@ -1,0 +1,35 @@
+Astma kontrol 
+
+Aktuelle: ***
+
+
+GINA kontrol
+@LUNGESYGDBFHGINA@
+
+Spirometri
+@LUNGESYGDBFHSPIROMETRIINKLSIDSTE@
+
+FeNO: @VURSKEMAER(3040014023::2)@
+
+ACQ
+@LUNGESYGDBFHACQ@
+
+Exacerbationer sidste 12 mdr: {absent/present:38765} (antal:{Tal; 0 - 10:20659})
+
+Aktuelle Lungemedicin: ***
+
+Inhalationsteknik:
+@VURSKEMAERDATO(3040008957)@
+
+GINA behandlingstrin: {tal; 1-5:21361}.
+
+Adhærens: Patienten oplyser, at ovenstående behandling er: {hyppighed; astma; adhærens:26090}. 
+
+Rygeanammese:
+@TOBHIS@
+
+Andre obj us (rtg/HRCT/DLCO): ***
+
+Konklusion og plan (inkl nye medicin ordinationer): ***
+
+@LUNGESYGDBFHFOOTER@
