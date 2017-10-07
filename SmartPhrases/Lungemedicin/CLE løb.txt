@@ -1,0 +1,14 @@
+CLE-test
+
+Der udføres kikkertundersøgelse af strubeområdet under anstrengelse på løbebånd.
+I	 LA	
+Anlagt med: {cle medicin:43235}
+
+Opvarmning i 10 minutter på løbebånd.
+Laryngoskopet indføres gennem {højre/venstre:27397} næsebor. Epiglottis visulaiseres, hvorefter skopets holder-del fikseres i skophatten og fiberskopet fixeres med tape til næseryggen.
+Bæresele påmonteres. Løbebånd sættes på konstant hastighed med 3% stigning efter 2 min og derefter hver 1½ min. Anstrengelsestest til maksimal udmattelse med kontinuerlig laryngoskopske optagelser som gemmes i Media og CLE-mappe på netværket.
+Testvarighed :  ***  minutter, 
+Hastighed:  ***   km/t
+Inspiratorisk stridor: {Ja, beskriv / Nej:35633}
+
+Undersøgelsesforløb: {Vurdering; kompliceret; ukompliceret:24415}
