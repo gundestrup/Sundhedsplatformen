@@ -1,0 +1,6 @@
+Symptomkontrol (GINA):
+Symptomer i hvile (=2 pr uge):	{absent/present:38765}
+Ved anstrengelse:  (=2 pr uge)	{absent/present:38765}
+Brug af SABA (=2 pr uge):	{absent/present:38765}
+Natlig opvågning:	{absent/present:38765}
+Begrænset i fysiske aktiviteter:	{absent/present:38765}
