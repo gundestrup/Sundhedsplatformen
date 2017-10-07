@@ -1,0 +1,86 @@
+Indledende vurdering af pt. henvist til L-amb
+
+Henvisningsårsag
+@HENV@
+
+@ALLERGI@
+
+Ekspositioner:
+{BFH LAMB Ekspositioner:43333}
+
+Dispositioner:
+@FAMHX@
+
+Tidligere/ko-morbiditet
+@PMH@
+
+@PSH@
+
+Aktuelle: 	***
+
+Eksacerbationer:
+	Eksacerbationer: det sidste år: {tal; 0-10:40570}
+	Indlæggelser: {tal; 0-10:40570}
+	NIV krævende: {tal; 0-10:40570}
+
+@SOCHX@
+
+Medicin
+@FMKAKTUELMEDICIN@
+
+Objektiv US
+SAT: @VURSKEMAER(10)@
+MRC: @VURSKEMAER(4594)@
+CAT: @VURSKEMAER(3040001360)@
+@VURSKEMAER(301070)@
+ACQ: @VURSKEMAER(30400026831)@
+
+St.p.: {st. p.:32877}
+
+St.c.: {st. c LT:38112}
+
+Ekstremiteter: ***
+
+Spirometri
+@VURSKEMAER(1064)@
+@VURSKEMAER(1065)@
+@VURSKEMAER(1066)@
+
+Mannitol/metacholintest: ***
+
+EKG: {EKG:34162}
+
+Radiologi
+{BFH LAMB Radiologi:43338}
+
+Blodprøver:
+***
+
+Plan:
+***
+
+Medicin ændringer
+***
+@SEPONERETFMK@
+
+Procedure bestilt
+@AKTPROC@
+
+Billeddiagnostik bestilt
+@BILKONTORD@
+
+Henvisninger lavet
+@KONORD@
+
+GOLD gruppe: {Tal, romer I-IV:21268} GOLD risiko: {tal; A; B; C; D:25855}
+DR-KOL registreret: {absent/present:38765}
+GINA: kontrolleret, delvist kontrolleret, manglende kontrol{ astma sværhedsgrad GINA:36807}
+ACQ:
+@LUNGESYGDBFHACQ@
+Sarcoidosestadie:  {Tal, romer I-IV:21268}
+
+Patient er inf og accept.
+
+Patienten får tid til opfølgning: @NÆSTEBKONTDETTEAFS@ 
+
+@LUNGESYGDBFHFOOTER@
