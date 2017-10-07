@@ -1,0 +1,39 @@
+Bronkoskopi
+
+Indikation: ***
+
+@HISTOBAK@
+
+Lungefunktionen viser:
+FEV1%: @VURSKEMAER(1065)@
+FVC%: @VURSKEMAER(1064)@
+
+@VURSKEMAER(1600100283)@
+
+@ALKHIST@
+
+@LUNGESYGDBFHPARAKOAGTAL@
+
+Anæstesi: Lokal anæstesi m. lidokain samt sedation m. midazolam og/eller fentanyl
+
+De fem trin gennemgået:  .
+ 
+Adgang: {beskrivelse; bronko; adgang; transnasal transoral:26028}.
+
+Stemmebånd: {beskrivelse; normale forhold:26029}.
+
+Trachea: {beskrivelse; normale forhold:26029}.
+
+Hovedcarina: {beskrivelse; skarp, midtstillet:26030}.
+
+Bronkier på venstre side: {beskrivelse; normale forhold til subsegmentær niveau:26031}.
+
+Bronkier på højre side: {beskrivelse; normale forhold til subsegmentær niveau:26031}.
+
+Prøver: {undersøgelse; lunge; mucosabiopsi; EBNAB; børstebiopsi; skyllevæske:26033}.
+
+Konklusion: ***
+
+Skal patienten på  MDT? {ja nej:40121}
+
+@LUNGESYGDBFHFOOTER@
