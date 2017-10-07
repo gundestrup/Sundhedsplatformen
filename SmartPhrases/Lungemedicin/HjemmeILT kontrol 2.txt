@@ -1,0 +1,70 @@
+@ALDER@ig @KØN@.
+
+Patienten har følgende lungemedicinske relevante diagnose(r): @PROB@
+
+Patienten har følgende kendte symptom(er): {symptomer; lunge; hjemmebesøg:25842}.
+
+Siden sidste {sted; lunge; kontrol i lungeambulatoriet:25753} er disse symptom(erne) {grad; aftaget; blevet værre; blevet bedre:25754}.
+
+Følgende symptomer er nye: {symptomer; lunge; hjemmebesøg; udvidet:25844}, disse symptomer er {andet; lunge; pludselig opstået:25756}.
+
+Samlet påvirker symptomerne {årsag; daglige aktiviteter; arbejde:25757}.
+
+Patienten behandles med: {medicin; lunge; KOL; hjemmebesøg:26433}.
+
+Patienten er {behandling; ophørt med; har ændret:25848} følgende medicin: {medicin; lunge; KOL; amb:25758}.
+
+Behandling med {medicin; lunge; KOL; amb:25758} har været {fund; effekt; uden/nogen/tilfredsstillende:21365} og der har {symptom; birvirkning/ingen bivirkning:21367}.
+
+Inhalationsteknik 
+@VURSKEMAERDATO(3040008957::1)@
+
+Hjemmeilt
+@VURSKEMAERDATO(3040008991::1)@
+
+Saturationen er uden ilt: ***% og med *** liter ilt ***%.
+
+A-punktur: 
+@RESUSIDST(syrebase:1)@
+
+@HISTOBAK@  
+
+Spirometri viser:
+@RESUSIDST(FEV1:1)@
+@RESUSIDST(FVC:1)@
+
+
+@VURSKEMAERDATO(4594::0)@
+@VURSKEMAERDATO(3040001360::1)@
+
+Patienten har oplyst følgende funktionsniveau: 
+@VURSKEMAERDATO(3040001665::0)@
+
+
+Antal indlæggelser for KOL det sidste år: ***
+
+Derfor klassificeres nu som GOLD klasse: @VURSKEMAERDATO(30400026560::)@
+
+@BMIP@
+{beskrivelse; BMI:25856}. {andet; henvisning; diætist:25857} - efterfølgende efter aftale med læge.
+
+Får følgende osteoporoseprofylakse: ***. Pt har været til dexascanning d. ***
+
+Patienten er {medicin; lunge; vaccination:25772}.
+
+Patienten henvises {andet; henvisning; KOL rehabilitering:25858} - efter aftale med læge.
+
+Socialt:
+@VURSKEMAERDATO(3040001662::1)@
+
+Psykisk:
+@VURSKEMAERDATO(3040001301::1)@
+
+Pt {handling; sættes; sættes ikke:25774} efterfølgende i behandling med {medicin; lunge; KOL; amb:25758} og er informeret/instrueret om behandling og bivirkninger.
+
+Pt har følgende aftaler: ***
+Pt får desuden tid til opfølgning: ***
+
+@NAVN@ skal forud for næste kontrol have udført følgende undersøgelser: ***
+@NÆSTEBKONTDETTEAFS@.
+Er henvist til *** efter aftale med læge.
