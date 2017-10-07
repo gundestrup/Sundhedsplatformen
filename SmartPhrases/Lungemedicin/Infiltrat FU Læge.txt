@@ -1,0 +1,53 @@
+Infiltratenheden - forundersøgelse
+
+Patienten er en @ALDER@ig @KØN@, som er henvist til videre udredning
+
+Cave:
+@ALLERGI@
+
+Tidligere cancersygdomme, årstal, behandling:
+***
+
+Tidligere
+@PMH@
+@PSH@
+
+***
+Ekspositioner:
+Tobak: *** pakkeår
+Alkohol: *** genstande/uge
+MRSA: ***
+TB: *** 
+Asbest: ***
+
+
+@HISTOBAK@
+Medicin:
+@FMKAKTUELMEDICIN@
+Anamnese:
+***
+
+Billeddiagnostik:
+***
+
+ Øvrige organsystemer:
+CNS: Ingen hovedpine eller synsforstyrrelser
+CP: Som anført
+GI:. Ingen klager. Ingen blod i afføringen.
+UG: Ingen klager
+
+Socialt:
+***
+
+Objektiv:
+ASA: {ASA:29671}
+Permormancescore: {Performance status (ECOG):29329}
+
+Lungefunktionen viser:
+@LUNGESYGDBFHLFUUDVLINF@
+
+Konklusion:
+***
+{BFH LAMB Invasive Bestillinger KR:46117}
+
+Patienten er informeret om undersøgelsessvar og mundtlig og skriftlig om kommende undersøgelser, risiko samt evt. forholdsregler forud for undersøgelserne.
