@@ -1,0 +1,2 @@
+Møder til Mantoux aflæsning efter 3 døgn.
+Testen er {Beskrivelse; positiv; negativ:32621}
