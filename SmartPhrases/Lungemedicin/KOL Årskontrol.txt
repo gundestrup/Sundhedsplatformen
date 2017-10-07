@@ -1,0 +1,55 @@
+KOL Års Kontrol
+
+@PROB@
+
+Andet:***
+
+Eksacerbationer det sidste år:
+	Total: {Tal; 0 - 10:20659}
+	Indlæggelser	:  {Tal; 0 - 10:20659}
+	NIV krævende	:  {Tal; 0 - 10:20659}
+
+Vaccination:
+@VAC@
+
+CAT score: @VURSKEMAER(3040001360)@
+MRC score: @VURSKEMAER(4594)@
+
+FEV1: @VURSKEMAER(1065)@
+FVC: @VURSKEMAER(1064)@
+FEV1/FVC: @VURSKEMAER(1066)@
+
+BMI: @VURSKEMAER(301070)@
+
+SAT: @VURSKEMAER(10)@
+Hjemmeilt?: @VURSKEMAER(3040105041)@ / @VURSKEMAER(3040008949)@
+
+@TOBHIS@
+
+EKKO: ***
+HRCT: ***
+Dexaskanning: ***
+
+Rehabilitering***
+
+Siden sidst: ***
+
+Aktuel lunge medicin:
+***
+
+Aktuelle lunge medicinændringer:
+***
+
+ACP-samtale:***
+
+Behandlings niveau: @ARKODESTATUS@
+
+Konklusion og plan:
+***
+
+GOLD gruppe: {Tal, romer I-IV:21268} GOLD risiko:  {tal; A; B; C; D:25855}
+
+DR-KOL registreret: {absent/present:38765}
+
+
+@LUNGESYGDBFHFOOTER@
