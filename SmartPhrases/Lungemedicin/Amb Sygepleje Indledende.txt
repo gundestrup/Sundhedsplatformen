@@ -1,0 +1,11 @@
+Forundersøgelse i sygeplejeambulatoriet.
+
+ pakkeforløb {lambfu:43105}
+
+Der udføres {splfutest:43107}
+
+Der udleveres {spørgeskema m.m.:43129}
+
+Der bookes tid til {ydr.undersøgelser:43127} 
+
+***
