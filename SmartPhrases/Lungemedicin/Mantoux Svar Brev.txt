@@ -1,0 +1,25 @@
+
+
+
+Regarding
+Patient:	@NAVN@
+@TILFØJ@
+CPR nummer:	@CPRNR@
+ 
+		
+Mantoux 2 units injected on {dato:35874}
+
+BCG-vaccination: {yes no:314532}
+
+Mantoux examined on {dato:35874}
+
+Mantoux-test is negative.
+
+
+Yours sincerely
+
+
+
+@PROVSIGNATUR@
+
+@BEHKAFSADR@
