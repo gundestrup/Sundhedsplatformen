@@ -1,0 +1,43 @@
+MDT konference
+
+@ALDER@ig @KØN@
+
+
+Tidligere og nuværende relevante comorbiditeter: {diagnose; infiltrat; hæmoptyse:26002}.
+
+Anamnese:
+Patienten har følgende lunge symptom(er): {symptomer; lunge; infiltrat; hæmoptyse:26018}.
+
+Ekspositioner:
+{andet; ingen; udsat for asbest:26000}.
+@HISTOBAK@
+
+Performance status: @VURSKEMAER(7074070)@
+ASA-score: @VURSKEMAER(1600100283)@
+
+Lungefunktion:
+
+@LUNGESYGDBFHLFUUDVLINF@
+
+Billeddiagnostik:
+{undersøgelse; lunge; rtg; HRCT, PET-CT; MR; perfusion/ventilation:26021} viser ***
+
+{undersøgelse; lunge; rtg; HRCT, PET-CT; MR; perfusion/ventilation:26021} viser: {beskrivelse; lunge; samme konklusion:26445}.
+
+Patologi: ***.
+ 
+Bronkoskopi: {handling; udført; ikke udført:26056}.
+ 
+EBUS/EUS: {handling; udført; ikke udført; EBUS/EUS:26425}.
+ 
+Perkutan lungebiopsi: {handling; udført; ikke udført; perkutan lungebiopsi:26426}.
+
+Tentativ TNM-klassifikation.
+{TNM lungecancer:34295}
+ 
+Plan: ***
+{undersøgelse lunge mdt:42548} 
+
+Tilstede vedkonferencen: ***
+
+@PROVSIGNATUR@
