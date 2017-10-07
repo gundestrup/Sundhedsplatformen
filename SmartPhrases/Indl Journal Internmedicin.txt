@@ -1,0 +1,49 @@
+Allergier: @ALLERGI@
+
+Tidl.
+@PMH@
+
+@PSH@
+
+Disp:
+@BIMFAMHISTORY@
+
+Aktuelt:
+***
+
+@TOBHIS@
+
+@ALKHIST@
+
+Medicin:
+@LUNGESYGDBFHMEDICIN@
+
+Objektivt:
+@EWS@
+
+Alment: {Vågen, klar og orienteret:27259}, {grad; god; upåvirket; akut påvirket etc:26887} almen tilstand 
+Collum: {NRS:28989}
+Hud: {Symptom; varm; tør; velperfunderet:25975}
+st.p.: {Stetoskopi:36566}
+st.c.: {Tcell st.c.:27606}
+Abdomen: {Fund; abdomen; blødt; spændt:26013}, {Beskrivelse; obj; abd; nyreloger:25356}, {Tarmlyde:40878}
+Ekst: {ekstremiteter:29622}
+
+Paraklin:
+***
+Mikrobiologi: ***
+
+Bestillinger:
+@BEST./ORD.@
+
+Medicin Ændringer:
+@MEDSEPONER@
+
+@NEWMEDS@
+
+Konklusion og Plan:
+***
+
+Patienten er inf og accept overstående
+
+@PROVSIGNATUR@
