@@ -1,0 +1,10 @@
+Priktest for 12 standardallergener udført.
+
+@VURSKEMAER(11459)@
+
+@VURSKEMAER(1551000011)@
+Skimmelsvamp (Aspegillius fumigatus) Angiv i mm: {priktest mm:44853}
+Bynke ambrosie(Ambrosia artemisiifolia) Angiv i mm: {priktest mm:44853}
+
+Konklusion
+{konklusion:44854}
