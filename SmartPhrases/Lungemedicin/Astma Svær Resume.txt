@@ -1,0 +1,195 @@
+Systematisk udredning af mulig svær astma: 
+RESUME-ARK
+
+1. ANAMNESE OG SYMPTOM KONTROL
+Kendt med astma siden (diagnose stillet):*** Alder v diagnose: ***  
+Hvor (feks egen læge/ Speciallæge):  ***
+
+Symptomer i barndom?
+	Astma I barndom?         		{absent/present:38765}
+	Høfeber I barndom?         		{absent/present:38765}
+	Atopisk dermatitis i barndom?	{absent/present:38765}
+
+Fam. disposition til:
+	Astma: 				{absent/present:38765}
+	Høfeber:  				{absent/present:38765}
+	Atopisk dermatitis: 			{absent/present:38765}
+
+Symptomer:
+	Åndenød: 				{absent/present:38765}
+	Piben/hvæsen: 			{absent/present:38765}
+	Trykken for brystet:			{absent/present:38765}
+	Hoste: 					{absent/present:38765}
+	Opspyt:				{absent/present:38765} (Farve: ***)
+	Hvis ja: > 3 mdr/år, min 2 år? 	{absent/present:38765}
+	Andre: ***
+
+Grad af Astma-kontrol
+	ACQ: @VURSKEMAER(30400026831)@
+	@LUNGESYGDBFHGINA@
+
+Primære gener (Feks begrænsning ved fysisk aktivitet): ***
+Varighed af symptomer (anfør måneder eller år): ***
+Antal prednisolon-krævende eksacerbationer indenfor 12 mdr:  {0-3:60949}
+Indlæggelser (12 mdr) : 			{absent/present:38765}  ( {0-3:60949})
+Skadestuebesøg: 				{absent/present:38765}  ( {0-3:60949})
+
+2. MEDICINSTATUS
+Aktuel Medicin:
+@FMKAKTUELMEDICIN@
+
+Tidligere medicin (ikke aktuelle):
+
+Type	Ja	Nej 	Præparat	Styrke	Dosering	Total dosis	Start
+dato	Slut dato
+Andet ICS end aktuelle (seneste 12 måneder)								
+								
+								
+Andet ICS/LABA end aktuelle (seneste 12 måneder)								
+								
+								
+								
+								
+								
+Tidligere:	Ja	Nej 	Præparat	Styrke	Dosering	Total dosis	Start
+dato	Slut
+dato
+Singulair								
+Theofyllin								
+Prednisolon								
+Antikolinergika								
+Makrolid								
+Xolair								
+Methotrexat								
+Ciclosporin								
+								
+Nasalsteroid								
+Antihistamin								
+Øjendråber								
+Immunterapi								
+								
+								
+								
+
+
+
+3. DIAGNOSE
+Lungefunktion:   FEV1: @VURSKEMAER(1065)@ FVC: @VURSKEMAER(1064)@  @VURSKEMAER(1066)@
+Reversibilitet for ß2agonist: {Ja,Nej,ikke Udført:44415}
+Procent ***	Stigning i ml ***
+Peakflow variation: {Ja,Nej,ikke Udført:44415}
+Procent ***
+Positiv mannitol test:{Ja,Nej,ikke Udført:44415} 
+PD15: ***
+Positiv metakolin provokation:
+PD20: ***
+Tidligere verificeret diagnose? {absent/present:38765}
+Hvilken test og hvor: ***
+4. FÆNOTYPE:
+ALLERGI?
+Allergisymptomer? (Rhinoconjuctivitis) : {Ja,Nej,ikke Udført:44415}
+og hvor: ***
+
+5. BEHANDLINGSBARRIERER
+Medicinadherence:			 
+FMK online:
+Hvor mange ICS inhalatorer afhentet sidste 12 mdr:***/ ***forventet antal ift  medicinstatus
+
+Korrekt inhalationsteknik	  (ICS)		{absent/present:38765}  
+Korrekt inhalationsteknik	  (SABA)	{absent/present:38765}  
+Ved manglende inhalationsteknik: Specificér: {Ingen:32280}
+
+6. EXPOSITIONER/FORVÆRRENDE FAKTORER
+Rygning:
+Tobak		{Nej Ja Tidligere:44620} 
+
+Pakkeår? {Ingen:32280}
+
+Canabis		{Nej Ja Tidligere:44620} 
+Piber/el gr.dgl {Ingen:32280} 
+
+Andet misbrug ? {Ingen:32280}
+
+Allergener:
+Dyr i hjemmet: {Nej Ja Tidligere:44620} 
+
+	Hvilke?*** 
+
+Faste tæpper 		{absent/present:38765}   
+  
+Fugt /skimmelsvamp		{Nej Ja Tidligere:44620} 
+
+Forværring i forbindelse med arbejde?	{absent/present:38765}     Erhverv: ***
+
+Anvender pt medicin som kan forværre symptomer (ACE-inhibitor, ß-blokker, ASA):
+ 		{absent/present:38765}    
+Hvis ja, hvilke: {Ingen:32280}
+
+7. KOMORBIDITETER
+
+Reflux symptomer	{Nej/beskriv:39690} 
+
+24-timer pH måling foretaget? 	{absent/present:38765} 
+Gastroskopi foretaget?		{absent/present:38765}
+
+Kronisk rhinosinuitis (CRS) +/- Nasale polypper:
+
+Nasale symptomer		{Nej/beskriv:39690} 
+SNOT-22 score: *** (Normalgrænse: < 8) 
+
+CT af sinus udført			{Nej/beskriv:39690}
+Tilbøjelighed til infektioner		{absent/present:38765} 
+Antal antibiotika kure sidste 12 mdr for luftvejsinfektion:*** 
+Viral /bakteriel exp fund?***
+Immunoglobuliner:  (IgG, IgA eller IgM – anfør værdier hvis nedsat, ellers ”normale”) 
+***
+
+Hyperventilationssyndrom
+Niemejgen-score:***(Normalgrænse < 23)
+
+Andre lungesygdomme (Emfysem, bronkiektasier, interstitielle forandringer)
+HRCT udført			{Nej/beskriv:39690}
+
+Udvidet LFU:
+DLCO***   DLCO(AV): ***
+TLC ***  RV: ***
+
+ANA/ANCA screening:{Nej/beskriv:39690}
+
+Mistanke om komponent af KOL? 		 {absent/present:38765}    
+Emfysem			{absent/present:38765}   
+ 
+Kardiel sygdom			
+Kendt kardiel sygdom?			 {absent/present:38765}   
+EKG taget ?        {Nej/beskriv:39690}
+
+Pro-BNP taget?  {Nej/beskriv:39690}
+
+Søvnapnø
+ESS-questionnaire score:@VURSKEMAER(7071590)@
+
+Tolkning:
+0-9 : Normal
+10-15: Sandsynlighed for mild til moderat søvn apnø
+=16: Sandsynlighed for svær søvnapnø
+
+BMI: @VURSKEMAER(301070)@
+
+Anden sygdom:
+{Nej/beskriv:39690}
+Bemærkninger: 
+***
+
+8. KONKLUSIONER
+
+Manglende astma kontrol?: {absent/present:38765}
+
+Astma diagnose verificeret? {absent/present:38765}
+
+Fænotype? ***
+
+Mulige årsager til manglende astmakontrol? (behandlingsbarrierer, expositioner, co-morbiditeter)
+***
+
+Plan: 
+***
