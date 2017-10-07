@@ -1,0 +1,29 @@
+Bronkoskopi
+
+Indikation: ***
+
+@HISTOBAK@
+
+Lungefunktionen viser:
+FEV1%: @VURSKEMAER(1065)@
+FVC%: @VURSKEMAER(1064)@
+
+@VURSKEMAER(1600100283)@
+
+Anæstesi: Lokal anæstesi m. lidokain samt sedation m. midazolam og/eller fentanyl
+
+De fem trin er gennemgået.
+
+I lokalanæstesi og sedation foretages bronkoskopi.
+Glat transnasal adgang. Normale forhold i aditus laryngis. Ingen stemmebåndsparese.
+Trakea samt højre- og venstresidige bronkietræ gennemgås til subsegmentniveau.
+Der er overalt normale forhold.
+
+Der er taget:
+{generel; blank liste med flervalg:39557::"MB fra ***","EBUS fra st. ***"}
+
+Prøver: {undersøgelse; lunge; mucosabiopsi; EBNAB; børstebiopsi; skyllevæske:26033}.
+
+Konklusion: Normal bronkoskopi.
+
+Skal patienten på  MDT? {ja nej:40121}
