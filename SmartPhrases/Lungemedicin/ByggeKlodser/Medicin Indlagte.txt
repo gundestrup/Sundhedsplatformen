@@ -1,0 +1,4 @@
+Fast Medicin
+@AFPLMED@
+PN medicin
+@AFPLPNMED@
