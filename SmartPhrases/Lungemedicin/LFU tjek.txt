@@ -1,0 +1,3 @@
+Luftvejsinfektion inden for 6 uger: {ja/nej:44263}
+Inhalationsmedicin d.d.: {Nej/ja, hvilke:44266}
+Korrekt udført LFU iht tjekliste: {JA/NEJ:44264}
