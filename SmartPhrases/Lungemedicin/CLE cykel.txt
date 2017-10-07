@@ -1,0 +1,11 @@
+Der udføres kikkertundersøgelse af strubeområdet under anstrengelse på ergometri cykel
+I	 LA
+Anlagt med 	{cle medicin:43235}
+
+Laryngoskopet indføres gennem {højre/venstre:27397} næsebor. Epiglottis visulaiseres, hvorefter skopets holder-del fikseres i skophatten og fiberskopet fixeres med tape til næseryggen.
+Testen udføres med belastning på 0 watt i 1 minut, herefter øgning med 20 watt pr. minut. Anstrengelsestest til maksimal udmattelse med kontinuerlig laryngoskopske optagelser som gemmes i Media og CLE-mappe på netværket.
+Testvarighed :  ***   minutter, 
+Max watt: ***
+Inspiratorisk stridor: {Ja, beskriv / Nej:35633}
+
+Undersøgelsesforløb: {Vurdering; kompliceret; ukompliceret:24415}
