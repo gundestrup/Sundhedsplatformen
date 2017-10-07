@@ -1,0 +1,5 @@
+Eucapnisk Hyperventilations Test udført.		
+
+Testen er {EVH:43240}
+
+Undersøgelses forløb: {Vurdering; kompliceret; ukompliceret:24415}
