@@ -1,0 +1,36 @@
+Bronkoskopi 
+
+Indikation:
+***
+@HISTOBAK@
+
+@VURSKEMAER(1600100283)@
+
+Anæstesi: Lokal anæstesi m. lidokain samt sedation m. midazolam og/eller fentanyl
+
+De fem trin er gennemgået.
+
+Glat {Højre/Venstre:28771} transnasal adgang. Normale forhold i aditus laryngis. Ingen stemmebåndsparese.
+Trakea i.a.
+Højresidig bronkietræ i.a.
+Venstresidig bronkietræ i.a.
+Inspektion til subsegmentniveau.
+
+Der er overalt normale forhold.
+
+Der er foretaget EBUS med følgende fund: 
+***
+
+Prøvemateriale:
+
+BL fra *** til D+R og cytologi
+BB fra
+MB fra
+TBB fra
+EBUS-TBNA fra *** til udstryg og koagel
+TTNAB fra *** til udstryg og koagel
+
+Konklusion:
+***
+
+Skal patienten på  MDT? {ja nej:40121}
