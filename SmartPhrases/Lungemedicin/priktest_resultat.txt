@@ -1,0 +1,23 @@
+Priktest for 12 standard allergener udført d.@DAGSDATO@. 
+
+Allergen (soluprick)	Resultat
+Histamin kontrol (10 mg/ml)	{resultat:26854}
+Negativ kontrol (glycerol)	{resultat:26855}
+Birk (vortebirk)	{resultat:26856}
+Græs (engrottehale)	{resultat:26856}
+Bynke	{resultat:26856}
+Hest (skæl)	{resultat:26856}
+Hund (hår)	{resultat:26856}
+Kat (hår)	{resultat:26856}
+Husstøvmide (Der pteronyssinus)	{resultat:26856}
+Husstøvmide (Der farina)	{resultat:26856}
+Alternaria alternata	{resultat:26856}
+Cladosporium harbarum	{resultat:26856}
+Aspergillius	{resultat:26856}
+Bynke Ambrosius	{resultat:26856}
+
+Konklusion
+{konklusion:26857}
+
+Positiv priktest kan påvise allergisk sensibilisering, hvilket ikke er ensbetydende med klinisk allergi.
+Diagnosen allergi stilles, når der både er påvist sensibilisering og en anamnese med typiske allergiske symptomer ved udsættelse for allergenet.
