@@ -1,0 +1,25 @@
+Forundersøgelse i sygeplejeambulatoriet
+
+Pakkeforløb: Intersitiel lungesygdom - ILS
+	
+@ALDER@ig @KØN@ 
+
+Pt.@TOBHISP@
+
+@BMIP@
+
+Lungefunktionsundersøgelse:
+  @VURSKEMAER(30400017728)@ 
+
+Diffusionsmåling:
+  @VURSKEMAER(30400026487)@
+  @VURSKEMAER(30400026491)@
+		
+
+Labprøver ved dette besøg: {lamb,blpr.ils:45126}
+
+Rtg af thorax: {handling; foretaget, ej foretaget:45103}
+ 
+Næste besøg i ambulatoriet: d. @NÆSTEBKONTDETTEAFS@
+
+______________________________________________________________________
