@@ -1,0 +1,51 @@
+Forundersøgelse i sygeplejeambulatoriet
+
+Pakkeforløb:sportsastma o.p.
+	
+@ALDER@ig @KØN@ 
+
+Pt. @TOBHISP@
+
+@BMIP@
+
+Sport: 
+{lamb,sport:45117}
+
+FeNO:
+  @VURSKEMAER(3040014023)@ ppb
+
+Lungefunktionsundersøgelse:
+  @VURSKEMAER(30400017728)@ 
+
+Metacholin provokation: 
+ {lamb,metacholin:45114}
+
+Inhalationsmedicin:
+ {lamb, inhal.medicin:45115}			
+
+Labprøver ved dette besøg: 
+{bl.pr. spl.fu:44122}
+
+Rtg af thorax:
+ {handling; foretaget, ej foretaget:45103}
+
+Næste besøg i ambulatoriet: d.@NÆSTEBKONTDETTEAFS@
+
+______________________________________________________________________
+
+	
+	
+
+
+
+	
+
+ 
+
+
+
+ 
+
+
+
+
