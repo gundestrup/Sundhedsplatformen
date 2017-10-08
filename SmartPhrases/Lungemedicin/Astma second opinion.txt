@@ -1,0 +1,66 @@
+Forundersøgelse i sygeplejeambulatoriet
+
+Pakkeforløb: Svær astma/second opinion
+	
+@ALDER@ig @KØN@ 
+
+Pt. @TOBHISP@
+
+@BMIP@
+
+FeNO:
+  @VURSKEMAER(3040014023)@ ppb
+
+Lungefunktionsundersøgelse:
+  @VURSKEMAER(30400017728)@ 
+
+Reversibilitetstest/metacholinprovocation:
+{lamb, rev.test/metacholin:45119}
+
+Inhalationsmedicin:
+ {lamb, inhal.medicin:45115}			
+
+Ekspektoration:
+ {ekspektorat:44496}
+
+Labprøver ved dette besøg: 
+{bl.pr. spl.fu:44122}
+
+Rtg af thorax:
+ {handling; foretaget, ej foretaget:45103}
+
+Der udleveres svær astma pakke spørgeskemaer; Astma kontrol (ACQ), Kronisk Rhinosinuitis (SNOT-22), Dysfunktionel vejrtrækning (Nijmegen), Reflux (GSSR), Søvnapnoe (ESS);  som afleveres ved næste besøg i ambulatoriet.
+
+Næste besøg i ambulatoriet: d. @NÆSTEBKONTDETTEAFS@
+
+______________________________________________________________________
+
+	
+	
+
+
+
+	
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+	
+
+ 
+
+
+
+ 
+
+
+
+
