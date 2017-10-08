@@ -1,0 +1,51 @@
+Forundersøgelse i sygeplejeambulatoriet
+
+Pakkeforløb: Recidiverende pneumonier
+	
+@ALDER@ig @KØN@ 
+
+Pt. @TOBHISP@
+
+@BMIP@
+
+FeNO:
+  @VURSKEMAER(3040014023)@ ppb
+
+Lungefunktionsundersøgelse:
+  @VURSKEMAER(30400017728)@ 
+
+Reversibilitetstest/mannitoltest:
+ {lamb,rev.test/mannitol:45111}
+
+Inhalationsmedicin:
+{lamb, inhal.medicin:45115}			
+
+Ekspektoration:
+ {ekspektorat:44496}
+
+Labprøver ved dette besøg: 
+{bl.pr. spl.fu:44122}
+
+Rtg af thorax:
+ {handling; foretaget, ej foretaget:45103}
+
+Næste besøg i ambulatoriet: d.@NÆSTEBKONTDETTEAFS@
+
+______________________________________________________________________
+
+	
+	
+
+
+
+	
+
+ 
+
+
+
+ 
+
+
+
+
