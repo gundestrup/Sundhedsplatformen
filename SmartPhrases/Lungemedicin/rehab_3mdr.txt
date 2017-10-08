@@ -1,0 +1,63 @@
+3 mdrs Samtale
+
+Livskvalitet: ***
+
+Tilkommende siden afsluttende samtale: ***
+
+@VURSKEMAER(5)@
+@VURSKEMAER(8)@
+@VURSKEMAER(10)@
+@VURSKEMAER(14)@
+@VURSKEMAER(301070)@
+@VURSKEMAER(4594)@
+
+@LUNGESYGDBFHCATTOTAL@
+
+@TOBHIS@
+
+@VURSKEMAER(1065)@
+@VURSKEMAER(1064)@
+@VURSKEMAER(1066)@
+
+@VURSKEMAERDATO(3040008957::0)@
+***
+
+Ændringer i pt's medicin: ***
+
+Opfølgning på hjemmetræning: ***
+
+Pt har arbejdet med flg. mål:
+	1. *** {NOH Mål opfyldelse opnået, delvist eller ikke:38573}
+	2. *** {NOH Mål opfyldelse opnået, delvist eller ikke:38573}
+	3. *** {NOH Mål opfyldelse opnået, delvist eller ikke:38573}
+
+Nye mål udformet i samråd med patienten
+	1. *** {NOH Mål opfyldelse opnået, delvist eller ikke:38573}
+	2. *** {NOH Mål opfyldelse opnået, delvist eller ikke:38573}
+	3. *** {NOH Mål opfyldelse opnået, delvist eller ikke:38573}
+
+Handlinger for at opnå målene/plan for hjemmetræning:
+	1. ***
+	2. ***
+	3. ***
+
+@VURSKEMAER(3040008451)@
+@VURSKEMAER(3040008452)@
+@VURSKEMAER(3040041845)@
+@VURSKEMAER(3040008453)@
+@VURSKEMAER(3040008454)@
+@VURSKEMAER(3040008455)@
+@VURSKEMAER(3040008464)@
+@VURSKEMAER(3040008465)@
+@VURSKEMAER(3040008466)@
+@VURSKEMAER(3040041846)@
+@VURSKEMAER(3040008467)@
+@VURSKEMAER(3040008468)@
+@VURSKEMAER(3040008469)@
+
+@VURSKEMAER(3040002047)@
+@VURSKEMAER(3040002048)@
+
+Pt. afsluttes i KOL rehab.
+
+@LUNGESYGDBFHFOOTER@
