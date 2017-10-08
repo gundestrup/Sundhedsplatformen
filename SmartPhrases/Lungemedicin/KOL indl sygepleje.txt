@@ -1,0 +1,56 @@
+Forundersøgelse i sygeplejeambulatoriet
+
+Pakkeforløb: KOL eller KOL o.p.
+	
+@ALDER@ig @KØN@ 
+
+Pt. @TOBHISP@
+
+@BMIP@
+
+SAT: @VURSKEMAER(10)@%
+
+Arteriepunktur: {ja nej:41524}
+
+MRC:   @VURSKEMAER(4594)@
+
+Lungefunktionsundersøgelse:
+  @VURSKEMAER(30400017728)@ 
+
+Reversibilitetstest:
+ @VURSKEMAER(30400026475)@
+ @VURSKEMAER(30400026476)@
+
+Inhalationsmedicin: {lamb, inhal.medicin:45115}
+Inhalationsteknik:  @VURSKEMAER(3040008957)@
+
+Ekspektoration: {ekspektorat:44496}
+
+CAT-skema:
+@VURSKEMAER(30400026589)@ 
+
+KOL-rehabilitering: {lamb, kol-rehabilitering:45872}
+
+Labprøver ved dette besøg: {lamb.labprøver kol:45121} 
+
+Rtg af thorax: {handling; foretaget, ej foretaget:45103}
+
+Næste besøg i ambulatoriet: d. @NÆSTEBKONTDETTEAFS@
+
+______________________________________________________________________
+
+	
+	
+
+
+
+	
+
+ 
+
+
+
+ 
+
+
+
