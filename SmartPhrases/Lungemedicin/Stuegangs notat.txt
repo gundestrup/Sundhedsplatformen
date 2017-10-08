@@ -1,0 +1,37 @@
+Diagnoser:
+@PROB@
+
+Seneste EWS
+@A@ på  @VURSKEMAERDATO(250026)@
+
+
+
+Medicin Seponeret
+@AFBMED@
+
+Nyt medicin:
+***
+
+MIK
+@SENESTEPROC(10011)@
+
+Paraklinik
+@LUNGESYGDBFHPARAVOGI@
+
+@RESULTRCNT(24T)@
+
+NIV
+@LUNGESYGDBFHSTUEGANGNIV@
+
+Nye ordinationer:
+@BEST./ORD.@
+
+Plan:
+***
+
+Forventet yderligere indl. antal dage: {0-3:60949}
+
+Patienten er inf og accept overstående
+
+@LUNGESYGDBFHFOOTER@
+
