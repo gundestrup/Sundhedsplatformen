@@ -1,0 +1,39 @@
+Forundersøgelse i sygeplejeambulatoriet
+
+Pakkeforløb: Politi aspirant
+	
+@ALDER@ig @KØN@ 
+
+Pt. @TOBHISP@
+
+@BMIP@
+
+FeNO:
+  @VURSKEMAER(3040014023)@ ppb
+
+Lungefunktionsundersøgelse:
+  @VURSKEMAER(30400017728)@ 
+
+Mannitoltest:
+{lamb,politi mannitol:45120}
+
+Næste besøg i ambulatoriet: d.@NÆSTEBKONTDETTEAFS@
+
+______________________________________________________________________
+
+	
+	
+
+
+
+	
+
+ 
+
+
+
+ 
+
+
+
+
