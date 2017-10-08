@@ -1,0 +1,68 @@
+Pt er henvist fra @HENVAFRES@ og opfylder kriterierne for KOL-rehabilitering.
+
+Tidligere:
+@PMH@
+
+@PSH@
+
+Disp:
+@FAMHX@
+
+@SOCHX@
+
+@TOBHISP@
+
+Status
+@VURSKEMAER(11)@
+@VURSKEMAER(14)@
+@VURSKEMAER(301070)@
+
+@VURSKEMAER(3040001336)@
+
+@VURSKEMAER(305410)@
+
+@VURSKEMAER(3040008957)@
+
+@VURSKEMAER(4594)@
+
+@VURSKEMAER(400150)@
+@VURSKEMAER(400120)@
+@VURSKEMAER(364040)@
+@VURSKEMAER(400130)@
+@VURSKEMAER(400140)@
+@VURSKEMAER(3040015012)@
+@VURSKEMAER(3040001663)@
+@VURSKEMAER(3040017904)@
+
+@VURSKEMAER(3040001665)@
+
+@LUNGESYGDBFHCATTOTAL@
+
+@LUNGESYGDBFH6MWALK@
+
+RSS
+@VURSKEMAER(3040002047)@
+@VURSKEMAER(3040002048)@
+
+Spirometri
+@VURSKEMAER(1065)@
+@VURSKEMAER(1064)@
+@VURSKEMAER(1066)@
+
+Mikrobiologi: ***
+
+Pt håber med deltagelse i KOL-rehabiliteringen at opnå følgende mål:
+	1. ***
+	2. ***
+	3. ***
+Handlinger til at opnå målene/plan for hjemmetræning:
+	1. ***
+	2. ***	
+	3. ***
+
+Pt starter KOL-rehabilitering den ***
+
+{Siddende eller liggende transport:26791}
+
+@LUNGESYGDBFHFOOTER@
+
