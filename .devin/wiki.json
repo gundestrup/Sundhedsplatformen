@@ -1,0 +1,44 @@
+{
+  "repo_notes": [
+    {
+      "content": "Sundhedsplatformen is a content repository, not a software project: it collects SmartPhrases (reusable clinical documentation text templates) for Sundhedsplatformen, the Epic-based electronic health record platform used in the Danish Capital and Zealand Regions. The README and all content are in Danish; the author is Svend Gundestrup, a physician."
+    },
+    {
+      "content": "All content lives under SmartPhrases/, currently organized by medical specialty — only Lungemedicin (pulmonology) is populated so far. Individual .txt files are phrase templates for admissions, outpatient follow-ups (Amb FU), nursing notes (sygepleje), procedures (bronkoskopi), and specific conditions (astma, KOL/COPD, infiltrat, pneumoni). SmartPhrases/Lungemedicin/ByggeKlodser/ holds reusable building-block fragments (footers, lab paragraphs like a-gas and para_INR_thrombocyt, inhalation checks, LFU/DLCO results) meant to be composed into full phrases."
+    },
+    {
+      "content": "Contributing model per the README: anyone may clone the repo and submit push/pull proposals to add or improve phrases. There is no build system, test suite, or application code — the GitHub wiki tab is referenced as the systematic documentation source. Documentation should treat file names as the phrase catalog and note that filenames mix Danish and English."
+    }
+  ],
+  "pages": [
+    {
+      "title": "Overview and Purpose",
+      "purpose": "What the repository is: a shared collection of SmartPhrases for the Sundhedsplatformen EHR, why it exists (collecting phrases in one place so clinicians can learn from each other), who maintains it, and how the GitHub wiki complements it.",
+      "page_notes": [
+        {
+          "content": "Key sources: README.md (all in Danish) — covers purpose (Hvorfor?), maintainer (Hvem?), and participation (Kan jeg deltage?)."
+        }
+      ]
+    },
+    {
+      "title": "SmartPhrases Organization",
+      "purpose": "How the SmartPhrases/ directory is structured: specialty-based subfolders, one .txt file per phrase template, and naming conventions in Danish medical terminology.",
+      "parent": "Overview and Purpose"
+    },
+    {
+      "title": "Lungemedicin Phrases",
+      "purpose": "The pulmonology phrase catalog: admission notes (Indl), outpatient follow-ups (Amb FU, Infiltrat FU), nursing templates (sygepleje), procedure texts (Bronkoskopi, EVH, Mantoux), and condition-specific templates (Astma, KOL, Infiltrat, pneumoni, rehab).",
+      "parent": "SmartPhrases Organization"
+    },
+    {
+      "title": "ByggeKlodser (Building Blocks)",
+      "purpose": "The reusable fragment library under SmartPhrases/Lungemedicin/ByggeKlodser/: composable snippets such as Footer, a-gas, lab paragraphs (para_INR_thrombocyt, para_væske_og_inf), LFU/DLCO results, inhalation checks, ACQ/MRC/CAT/GINA questionnaires, and 6-minute walk test text.",
+      "parent": "SmartPhrases Organization"
+    },
+    {
+      "title": "Contributing",
+      "purpose": "How to participate: clone the repository and propose additions or improvements to phrases; conventions for file naming and folder placement by specialty; the role of the GitHub wiki as the systematic index.",
+      "parent": "Overview and Purpose"
+    }
+  ]
+}
